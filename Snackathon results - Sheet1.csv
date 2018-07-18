@@ -1,0 +1,609 @@
+Chocolate id,Score,Participant,Name,Type,Subject Mean,Subject Stdev,Standardized score,Mislabel
+20,1,1,Baker's dark 100%,Dark,2.961538462,0.8236877676,-2.381410212,FALSE
+20,1,Adrienne,Baker's dark 100%,Dark,3.807692308,1.327229619,-2.115453323,FALSE
+20,1,Prashanth,Baker's dark 100%,Dark,4.928571429,2.368520659,-1.658660402,FALSE
+20,1,Conor Fellin,Baker's dark 100%,Dark,4.68,2.19317122,-1.67793557,FALSE
+21,1,Conor Fellin,Lindt 90%,Dark,4.68,2.19317122,-1.67793557,FALSE
+20,1,Claire T,Baker's dark 100%,Dark,4.04,1.593737745,-1.907465648,FALSE
+20,1,Vince,Baker's dark 100%,Dark,3.043478261,1.521908517,-1.342707685,FALSE
+21,1,Vince,Lindt 90%,Dark,3.043478261,1.521908517,-1.342707685,FALSE
+20,1,elundell,Baker's dark 100%,Dark,4.090909091,1.150945405,-2.685539278,FALSE
+20,1,anoymous pangolin,Baker's dark 100%,Dark,4.192307692,1.649708599,-1.935073682,FALSE
+20,1,Han Li,Baker's dark 100%,Dark,5.230769231,1.274604011,-3.319281278,FALSE
+20,1,Ellen,Baker's dark 100%,Dark,3.636363636,1.733300033,-1.521008242,FALSE
+8,1,Satish,Green and black organic dark 85%,Dark,3.5,1.555634919,-1.607060866,FALSE
+20,1,Satish,Baker's dark 100%,Dark,3.5,1.555634919,-1.607060866,FALSE
+21,1,Satish,Lindt 90%,Dark,3.5,1.555634919,-1.607060866,FALSE
+20,1,Anonymous star-nosed mole,Baker's dark 100%,Dark,3.12,1.268857754,-1.670794061,FALSE
+21,1,Rohan,Lindt 90%,Dark,2.863636364,1.2069424,-1.544097186,FALSE
+20,1,Anonymous capybara,Baker's dark 100%,Dark,3.576923077,1.604321088,-1.606238985,FALSE
+21,1,Anonymous capybara,Lindt 90%,Dark,3.576923077,1.604321088,-1.606238985,FALSE
+20,1,Silas,Baker's dark 100%,Dark,2.5,0.894427191,-1.677050983,FALSE
+20,1,Rando 1,Baker's dark 100%,Dark,4.541666667,1.84105751,-1.923713218,FALSE
+21,1,Rando 1,Lindt 90%,Dark,4.541666667,1.84105751,-1.923713218,FALSE
+20,1,Rando 2,Baker's dark 100%,Dark,3.333333333,2.065591118,-1.129620143,FALSE
+21,1,Rando 2,Lindt 90%,Dark,3.333333333,2.065591118,-1.129620143,FALSE
+17,2,1,Ghirardelli intense dark 86% cacoa,Dark,2.961538462,0.8236877676,-1.167357947,FALSE
+21,2,1,Lindt 90%,Dark,2.961538462,0.8236877676,-1.167357947,FALSE
+24,2,1,Theo dark 85%,Dark,2.961538462,0.8236877676,-1.167357947,FALSE
+21,2,Sivan,Lindt 90%,Dark,3.375,1.668332501,-0.8241762354,FALSE
+24,2,Sivan,Theo dark 85%,Dark,3.375,1.668332501,-0.8241762354,FALSE
+20,2,William H,Baker's dark 100%,Dark,3.857142857,1.878449208,-0.9886574781,FALSE
+21,2,Adrienne,Lindt 90%,Dark,3.807692308,1.327229619,-1.362004194,FALSE
+17,2,Conor Fellin,Ghirardelli intense dark 86% cacoa,Dark,4.68,2.19317122,-1.221974817,FALSE
+20,2,Jacob,Baker's dark 100%,Dark,4.058823529,1.29762226,-1.58661237,FALSE
+21,2,Jacob,Lindt 90%,Dark,4.058823529,1.29762226,-1.58661237,FALSE
+21,2,anoymous pangolin,Lindt 90%,Dark,4.192307692,1.649708599,-1.328906022,FALSE
+24,2,anoymous pangolin,Theo dark 85%,Dark,4.192307692,1.649708599,-1.328906022,FALSE
+20,2,Kewei,Baker's dark 100%,Dark,3.88,1.36381817,-1.378482881,FALSE
+21,2,Ellen,Lindt 90%,Dark,3.636363636,1.733300033,-0.9440740814,FALSE
+20,2,Nick Verbos,Baker's dark 100%,Dark,3.583333333,1.100065874,-1.439307746,FALSE
+17,2,Satish,Ghirardelli intense dark 86% cacoa,Dark,3.5,1.555634919,-0.9642365198,FALSE
+24,2,Satish,Theo dark 85%,Dark,3.5,1.555634919,-0.9642365198,FALSE
+21,2,Anonymous star-nosed mole,Lindt 90%,Dark,3.12,1.268857754,-0.882683655,FALSE
+8,2,Rohan,Green and black organic dark 85%,Dark,2.863636364,1.2069424,-0.7155572326,FALSE
+13,2,Rohan,Tcho dark 81%,Dark,2.863636364,1.2069424,-0.7155572326,FALSE
+24,2,Rohan,Theo dark 85%,Dark,2.863636364,1.2069424,-0.7155572326,FALSE
+20,2,Jack,Baker's dark 100%,Dark,4.470588235,1.178857872,-2.095747328,FALSE
+20,2,Jon Y,Baker's dark 100%,Dark,4.25,1.602554779,-1.404008169,FALSE
+21,2,Jon Y,Lindt 90%,Dark,4.25,1.602554779,-1.404008169,FALSE
+17,2,Anonymous capybara,Ghirardelli intense dark 86% cacoa,Dark,3.576923077,1.604321088,-0.9829223642,FALSE
+24,2,Anonymous capybara,Theo dark 85%,Dark,3.576923077,1.604321088,-0.9829223642,FALSE
+24,2,Silas,Theo dark 85%,Dark,2.5,0.894427191,-0.5590169944,FALSE
+8,2,Rando 1,Green and black organic dark 85%,Dark,4.541666667,1.84105751,-1.380547133,FALSE
+8,3,1,Green and black organic dark 85%,Dark,2.961538462,0.8236877676,0.04669431789,FALSE
+13,3,1,Tcho dark 81%,Dark,2.961538462,0.8236877676,0.04669431789,FALSE
+17,3,William H,Ghirardelli intense dark 86% cacoa,Dark,3.857142857,1.878449208,-0.4563034514,FALSE
+24,3,William H,Theo dark 85%,Dark,3.857142857,1.878449208,-0.4563034514,FALSE
+8,3,Adrienne,Green and black organic dark 85%,Dark,3.807692308,1.327229619,-0.6085550655,FALSE
+17,3,Adrienne,Ghirardelli intense dark 86% cacoa,Dark,3.807692308,1.327229619,-0.6085550655,FALSE
+17,3,McKnett,Ghirardelli intense dark 86% cacoa,Dark,4.076923077,1.055389101,-1.020403827,FALSE
+24,3,McKnett,Theo dark 85%,Dark,4.076923077,1.055389101,-1.020403827,FALSE
+8,3,Conor Fellin,Green and black organic dark 85%,Dark,4.68,2.19317122,-0.7660140643,FALSE
+24,3,Conor Fellin,Theo dark 85%,Dark,4.68,2.19317122,-0.7660140643,FALSE
+8,3,Claire T,Green and black organic dark 85%,Dark,4.04,1.593737745,-0.6525540373,FALSE
+21,3,Claire T,Lindt 90%,Dark,4.04,1.593737745,-0.6525540373,FALSE
+24,3,Claire T,Theo dark 85%,Dark,4.04,1.593737745,-0.6525540373,FALSE
+20,3,Celia,Baker's dark 100%,Dark,3.2,1.229272594,-0.1626978434,FALSE
+8,3,Vince,Green and black organic dark 85%,Dark,3.043478261,1.521908517,-0.02856824861,FALSE
+21,3,elundell,Lindt 90%,Dark,4.090909091,1.150945405,-0.9478373921,FALSE
+17,3,anoymous pangolin,Ghirardelli intense dark 86% cacoa,Dark,4.192307692,1.649708599,-0.722738363,FALSE
+8,3,Kewei,Green and black organic dark 85%,Dark,3.88,1.36381817,-0.6452473061,FALSE
+17,3,Kewei,Ghirardelli intense dark 86% cacoa,Dark,3.88,1.36381817,-0.6452473061,FALSE
+21,3,Kewei,Lindt 90%,Dark,3.88,1.36381817,-0.6452473061,FALSE
+21,3,Han Li,Lindt 90%,Dark,5.230769231,1.274604011,-1.750166492,FALSE
+8,3,Chris Jimenez,Green and black organic dark 85%,Dark,4.076923077,1.497861724,-0.7189736274,FALSE
+21,3,Nick Verbos,Lindt 90%,Dark,3.583333333,1.100065874,-0.5302712747,FALSE
+13,3,Satish,Tcho dark 81%,Dark,3.5,1.555634919,-0.3214121733,FALSE
+8,3,Anonymous star-nosed mole,Green and black organic dark 85%,Dark,3.12,1.268857754,-0.09457324875,FALSE
+17,3,Rohan,Ghirardelli intense dark 86% cacoa,Dark,2.863636364,1.2069424,0.1129827209,FALSE
+17,3,Jon Y,Ghirardelli intense dark 86% cacoa,Dark,4.25,1.602554779,-0.7800045382,FALSE
+8,3,Anonymous capybara,Green and black organic dark 85%,Dark,3.576923077,1.604321088,-0.359605743,FALSE
+17,3,Silas,Ghirardelli intense dark 86% cacoa,Dark,2.5,0.894427191,0.5590169944,FALSE
+17,3,Rando 1,Ghirardelli intense dark 86% cacoa,Dark,4.541666667,1.84105751,-0.8373810479,FALSE
+13,4,Adrienne,Tcho dark 81%,Dark,3.807692308,1.327229619,0.1448940632,FALSE
+21,4,Prashanth,Lindt 90%,Dark,4.928571429,2.368520659,-0.3920470042,FALSE
+8,4,McKnett,Green and black organic dark 85%,Dark,4.076923077,1.055389101,-0.07288598762,FALSE
+13,4,McKnett,Tcho dark 81%,Dark,4.076923077,1.055389101,-0.07288598762,FALSE
+20,4,McKnett,Baker's dark 100%,Dark,4.076923077,1.055389101,-0.07288598762,FALSE
+13,4,Claire T,Tcho dark 81%,Dark,4.04,1.593737745,-0.02509823221,FALSE
+17,4,Claire T,Ghirardelli intense dark 86% cacoa,Dark,4.04,1.593737745,-0.02509823221,FALSE
+8,4,Jacob,Green and black organic dark 85%,Dark,4.058823529,1.29762226,-0.04533178201,FALSE
+13,4,Vince,Tcho dark 81%,Dark,3.043478261,1.521908517,0.6285014694,FALSE
+17,4,Vince,Ghirardelli intense dark 86% cacoa,Dark,3.043478261,1.521908517,0.6285014694,FALSE
+17,4,elundell,Ghirardelli intense dark 86% cacoa,Dark,4.090909091,1.150945405,-0.07898644934,FALSE
+13,4,anoymous pangolin,Tcho dark 81%,Dark,4.192307692,1.649708599,-0.1165707037,FALSE
+20,4,Lily,Baker's dark 100%,Dark,4.192307692,1.05902713,-0.181589014,FALSE
+21,4,Lily,Lindt 90%,Dark,4.192307692,1.05902713,-0.181589014,FALSE
+8,4,Han Li,Green and black organic dark 85%,Dark,5.230769231,1.274604011,-0.9656090992,FALSE
+13,4,Han Li,Tcho dark 81%,Dark,5.230769231,1.274604011,-0.9656090992,FALSE
+8,4,Ellen,Green and black organic dark 85%,Dark,3.636363636,1.733300033,0.2097942403,FALSE
+17,4,Ellen,Ghirardelli intense dark 86% cacoa,Dark,3.636363636,1.733300033,0.2097942403,FALSE
+24,4,Ellen,Theo dark 85%,Dark,3.636363636,1.733300033,0.2097942403,FALSE
+8,4,Nick Verbos,Green and black organic dark 85%,Dark,3.583333333,1.100065874,0.3787651962,FALSE
+13,4,Nick Verbos,Tcho dark 81%,Dark,3.583333333,1.100065874,0.3787651962,FALSE
+17,4,Nick Verbos,Ghirardelli intense dark 86% cacoa,Dark,3.583333333,1.100065874,0.3787651962,FALSE
+20,4,Raphey,Baker's dark 100%,Dark,4.857142857,1.236354087,-0.6932826656,FALSE
+13,4,Anonymous star-nosed mole,Tcho dark 81%,Dark,3.12,1.268857754,0.6935371575,FALSE
+17,4,Jack,Ghirardelli intense dark 86% cacoa,Dark,4.470588235,1.178857872,-0.3991899672,FALSE
+24,4,Jack,Theo dark 85%,Dark,4.470588235,1.178857872,-0.3991899672,FALSE
+13,4,Anonymous capybara,Tcho dark 81%,Dark,3.576923077,1.604321088,0.2637108782,FALSE
+13,4,Silas,Tcho dark 81%,Dark,2.5,0.894427191,1.677050983,FALSE
+21,4,Silas,Lindt 90%,Dark,2.5,0.894427191,1.677050983,FALSE
+24,5,Adrienne,Theo dark 85%,Dark,3.807692308,1.327229619,0.8983431919,FALSE
+21,5,McKnett,Lindt 90%,Dark,4.076923077,1.055389101,0.8746318514,FALSE
+24,5,Vince,Theo dark 85%,Dark,3.043478261,1.521908517,1.285571187,FALSE
+8,5,elundell,Green and black organic dark 85%,Dark,4.090909091,1.150945405,0.7898644934,FALSE
+24,5,elundell,Theo dark 85%,Dark,4.090909091,1.150945405,0.7898644934,FALSE
+8,5,anoymous pangolin,Green and black organic dark 85%,Dark,4.192307692,1.649708599,0.4895969556,FALSE
+13,5,Kewei,Tcho dark 81%,Dark,3.88,1.36381817,0.8212238441,FALSE
+8,5,Lily,Green and black organic dark 85%,Dark,4.192307692,1.05902713,0.7626738589,FALSE
+13,5,Lily,Tcho dark 81%,Dark,4.192307692,1.05902713,0.7626738589,FALSE
+17,5,Lily,Ghirardelli intense dark 86% cacoa,Dark,4.192307692,1.05902713,0.7626738589,FALSE
+17,5,Han Li,Ghirardelli intense dark 86% cacoa,Dark,5.230769231,1.274604011,-0.1810517061,FALSE
+24,5,Han Li,Theo dark 85%,Dark,5.230769231,1.274604011,-0.1810517061,FALSE
+24,5,Chris Jimenez,Theo dark 85%,Dark,4.076923077,1.497861724,0.6162631092,FALSE
+24,5,Nick Verbos,Theo dark 85%,Dark,3.583333333,1.100065874,1.287801667,FALSE
+8,5,Raphey,Green and black organic dark 85%,Dark,4.857142857,1.236354087,0.1155471109,FALSE
+13,5,Raphey,Tcho dark 81%,Dark,4.857142857,1.236354087,0.1155471109,FALSE
+21,5,Raphey,Lindt 90%,Dark,4.857142857,1.236354087,0.1155471109,FALSE
+24,5,Raphey,Theo dark 85%,Dark,4.857142857,1.236354087,0.1155471109,FALSE
+24,5,Anonymous star-nosed mole,Theo dark 85%,Dark,3.12,1.268857754,1.481647564,FALSE
+8,5,Jon Y,Green and black organic dark 85%,Dark,4.25,1.602554779,0.4680027229,FALSE
+24,5,Jon Y,Theo dark 85%,Dark,4.25,1.602554779,0.4680027229,FALSE
+13,5,Rando 1,Tcho dark 81%,Dark,4.541666667,1.84105751,0.2489511224,FALSE
+8,6,William H,Green and black organic dark 85%,Dark,3.857142857,1.878449208,1.140758629,FALSE
+24,6,Jacob,Theo dark 85%,Dark,4.058823529,1.29762226,1.495948806,FALSE
+24,6,Lily,Theo dark 85%,Dark,4.192307692,1.05902713,1.706936732,FALSE
+17,6,Raphey,Ghirardelli intense dark 86% cacoa,Dark,4.857142857,1.236354087,0.9243768875,FALSE
+17,6,Anonymous star-nosed mole,Ghirardelli intense dark 86% cacoa,Dark,3.12,1.268857754,2.26975797,FALSE
+24,6,Rando 1,Theo dark 85%,Dark,4.541666667,1.84105751,0.7921172075,FALSE
+13,7,Conor Fellin,Tcho dark 81%,Dark,4.68,2.19317122,1.057828946,FALSE
+22,2,1,Theo dark semi sweet 70% (not dark),Semi,2.961538462,0.8236877676,-1.167357947,TRUE
+7,2,Adrienne,Ghiradelli dark (not dark),Semi,3.807692308,1.327229619,-1.362004194,TRUE
+22,2,Vince,Theo dark semi sweet 70% (not dark),Semi,3.043478261,1.521908517,-0.6856379666,TRUE
+7,2,Raphey,Ghiradelli dark (not dark),Semi,4.857142857,1.236354087,-2.310942219,TRUE
+22,2,Raphey,Theo dark semi sweet 70% (not dark),Semi,4.857142857,1.236354087,-2.310942219,TRUE
+22,3,Nick Verbos,Theo dark semi sweet 70% (not dark),Semi,3.583333333,1.100065874,-0.5302712747,TRUE
+22,3,Satish,Theo dark semi sweet 70% (not dark),Semi,3.5,1.555634919,-0.3214121733,TRUE
+7,3,Rohan,Ghiradelli dark (not dark),Semi,2.863636364,1.2069424,0.1129827209,TRUE
+7,3,Anonymous capybara,Ghiradelli dark (not dark),Semi,3.576923077,1.604321088,-0.359605743,TRUE
+7,3,Silas,Ghiradelli dark (not dark),Semi,2.5,0.894427191,0.5590169944,TRUE
+7,4,1,Ghiradelli dark (not dark),Semi,2.961538462,0.8236877676,1.260746583,TRUE
+22,4,Ellen,Theo dark semi sweet 70% (not dark),Semi,3.636363636,1.733300033,0.2097942403,TRUE
+7,4,Nick Verbos,Ghiradelli dark (not dark),Semi,3.583333333,1.100065874,0.3787651962,TRUE
+22,4,Anonymous star-nosed mole,Theo dark semi sweet 70% (not dark),Semi,3.12,1.268857754,0.6935371575,TRUE
+22,4,Rando 1,Theo dark semi sweet 70% (not dark),Semi,4.541666667,1.84105751,-0.2942149628,TRUE
+22,5,Sivan,Theo dark semi sweet 70% (not dark),Semi,3.375,1.668332501,0.9740264601,TRUE
+22,5,William H,Theo dark semi sweet 70% (not dark),Semi,3.857142857,1.878449208,0.6084046019,TRUE
+22,5,Adrienne,Theo dark semi sweet 70% (not dark),Semi,3.807692308,1.327229619,0.8983431919,TRUE
+22,5,McKnett,Theo dark semi sweet 70% (not dark),Semi,4.076923077,1.055389101,0.8746318514,TRUE
+22,5,Conor Fellin,Theo dark semi sweet 70% (not dark),Semi,4.68,2.19317122,0.1459074408,TRUE
+7,5,Vince,Ghiradelli dark (not dark),Semi,3.043478261,1.521908517,1.285571187,TRUE
+7,5,elundell,Ghiradelli dark (not dark),Semi,4.090909091,1.150945405,0.7898644934,TRUE
+22,5,Kewei,Theo dark semi sweet 70% (not dark),Semi,3.88,1.36381817,0.8212238441,TRUE
+7,5,Lily,Ghiradelli dark (not dark),Semi,4.192307692,1.05902713,0.7626738589,TRUE
+22,5,Lily,Theo dark semi sweet 70% (not dark),Semi,4.192307692,1.05902713,0.7626738589,TRUE
+7,5,Satish,Ghiradelli dark (not dark),Semi,3.5,1.555634919,0.9642365198,TRUE
+22,5,Anonymous capybara,Theo dark semi sweet 70% (not dark),Semi,3.576923077,1.604321088,0.8870274994,TRUE
+7,6,William H,Ghiradelli dark (not dark),Semi,3.857142857,1.878449208,1.140758629,TRUE
+7,6,McKnett,Ghiradelli dark (not dark),Semi,4.076923077,1.055389101,1.82214969,TRUE
+7,6,Claire T,Ghiradelli dark (not dark),Semi,4.04,1.593737745,1.229813378,TRUE
+22,6,elundell,Theo dark semi sweet 70% (not dark),Semi,4.090909091,1.150945405,1.658715436,TRUE
+22,6,anoymous pangolin,Theo dark semi sweet 70% (not dark),Semi,4.192307692,1.649708599,1.095764615,TRUE
+7,6,Kewei,Ghiradelli dark (not dark),Semi,3.88,1.36381817,1.554459419,TRUE
+7,6,Han Li,Ghiradelli dark (not dark),Semi,5.230769231,1.274604011,0.603505687,TRUE
+22,6,Han Li,Theo dark semi sweet 70% (not dark),Semi,5.230769231,1.274604011,0.603505687,TRUE
+7,6,Ellen,Ghiradelli dark (not dark),Semi,3.636363636,1.733300033,1.363662562,TRUE
+7,6,Jon Y,Ghiradelli dark (not dark),Semi,4.25,1.602554779,1.092006354,TRUE
+22,6,Jon Y,Theo dark semi sweet 70% (not dark),Semi,4.25,1.602554779,1.092006354,TRUE
+7,6,Rando 1,Ghiradelli dark (not dark),Semi,4.541666667,1.84105751,0.7921172075,TRUE
+7,7,Conor Fellin,Ghiradelli dark (not dark),Semi,4.68,2.19317122,1.057828946,TRUE
+22,7,Claire T,Theo dark semi sweet 70% (not dark),Semi,4.04,1.593737745,1.857269183,TRUE
+7,7,anoymous pangolin,Ghiradelli dark (not dark),Semi,4.192307692,1.649708599,1.701932274,TRUE
+11,1,Celia,Green and black Milk 34%,Milk,3.2,1.229272594,-1.789676277,FALSE
+5,1,Ellen,Dove silky smooth milk,Milk,3.636363636,1.733300033,-1.521008242,FALSE
+11,2,McKnett,Green and black Milk 34%,Milk,4.076923077,1.055389101,-1.967921666,FALSE
+11,2,Conor Fellin,Green and black Milk 34%,Milk,4.68,2.19317122,-1.221974817,FALSE
+4,2,Claire T,Cadbury dairy milk,Milk,4.04,1.593737745,-1.280009842,FALSE
+23,2,Celia,Theo Milk 45%,Milk,3.2,1.229272594,-0.9761870602,FALSE
+4,2,Vince,Cadbury dairy milk,Milk,3.043478261,1.521908517,-0.6856379666,FALSE
+5,2,Vince,Dove silky smooth milk,Milk,3.043478261,1.521908517,-0.6856379666,FALSE
+10,2,Vince,Lindt Milk 31 %,Milk,3.043478261,1.521908517,-0.6856379666,FALSE
+11,2,Vince,Green and black Milk 34%,Milk,3.043478261,1.521908517,-0.6856379666,FALSE
+23,2,Vince,Theo Milk 45%,Milk,3.043478261,1.521908517,-0.6856379666,FALSE
+11,2,Lily,Green and black Milk 34%,Milk,4.192307692,1.05902713,-2.07011476,FALSE
+4,2,Anonymous star-nosed mole,Cadbury dairy milk,Milk,3.12,1.268857754,-0.882683655,FALSE
+5,2,Anonymous star-nosed mole,Dove silky smooth milk,Milk,3.12,1.268857754,-0.882683655,FALSE
+10,2,Anonymous star-nosed mole,Lindt Milk 31 %,Milk,3.12,1.268857754,-0.882683655,FALSE
+11,2,Anonymous star-nosed mole,Green and black Milk 34%,Milk,3.12,1.268857754,-0.882683655,FALSE
+11,2,Rohan,Green and black Milk 34%,Milk,2.863636364,1.2069424,-0.7155572326,FALSE
+23,2,Rohan,Theo Milk 45%,Milk,2.863636364,1.2069424,-0.7155572326,FALSE
+4,2,Silas,Cadbury dairy milk,Milk,2.5,0.894427191,-0.5590169944,FALSE
+5,2,Silas,Dove silky smooth milk,Milk,2.5,0.894427191,-0.5590169944,FALSE
+11,2,Silas,Green and black Milk 34%,Milk,2.5,0.894427191,-0.5590169944,FALSE
+11,2,Rando 1,Green and black Milk 34%,Milk,4.541666667,1.84105751,-1.380547133,FALSE
+5,3,1,Dove silky smooth milk,Milk,2.961538462,0.8236877676,0.04669431789,FALSE
+10,3,1,Lindt Milk 31 %,Milk,2.961538462,0.8236877676,0.04669431789,FALSE
+11,3,1,Green and black Milk 34%,Milk,2.961538462,0.8236877676,0.04669431789,FALSE
+23,3,1,Theo Milk 45%,Milk,2.961538462,0.8236877676,0.04669431789,FALSE
+11,3,Sivan,Green and black Milk 34%,Milk,3.375,1.668332501,-0.2247753369,FALSE
+4,3,William H,Cadbury dairy milk,Milk,3.857142857,1.878449208,-0.4563034514,FALSE
+5,3,William H,Dove silky smooth milk,Milk,3.857142857,1.878449208,-0.4563034514,FALSE
+10,3,William H,Lindt Milk 31 %,Milk,3.857142857,1.878449208,-0.4563034514,FALSE
+10,3,Conor Fellin,Lindt Milk 31 %,Milk,4.68,2.19317122,-0.7660140643,FALSE
+10,3,Lily,Lindt Milk 31 %,Milk,4.192307692,1.05902713,-1.125851887,FALSE
+23,3,Ellen,Theo Milk 45%,Milk,3.636363636,1.733300033,-0.3671399205,FALSE
+23,3,Anonymous star-nosed mole,Theo Milk 45%,Milk,3.12,1.268857754,-0.09457324875,FALSE
+4,3,Jon Y,Cadbury dairy milk,Milk,4.25,1.602554779,-0.7800045382,FALSE
+4,4,1,Cadbury dairy milk,Milk,2.961538462,0.8236877676,1.260746583,FALSE
+4,4,Sivan,Cadbury dairy milk,Milk,3.375,1.668332501,0.3746255616,FALSE
+5,4,Sivan,Dove silky smooth milk,Milk,3.375,1.668332501,0.3746255616,FALSE
+10,4,Adrienne,Lindt Milk 31 %,Milk,3.807692308,1.327229619,0.1448940632,FALSE
+11,4,Adrienne,Green and black Milk 34%,Milk,3.807692308,1.327229619,0.1448940632,FALSE
+23,4,Adrienne,Theo Milk 45%,Milk,3.807692308,1.327229619,0.1448940632,FALSE
+23,4,Prashanth,Theo Milk 45%,Milk,4.928571429,2.368520659,-0.3920470042,FALSE
+4,4,Conor Fellin,Cadbury dairy milk,Milk,4.68,2.19317122,-0.3100533118,FALSE
+5,4,Claire T,Dove silky smooth milk,Milk,4.04,1.593737745,-0.02509823221,FALSE
+5,4,Jacob,Dove silky smooth milk,Milk,4.058823529,1.29762226,-0.04533178201,FALSE
+10,4,Jacob,Lindt Milk 31 %,Milk,4.058823529,1.29762226,-0.04533178201,FALSE
+23,4,Jacob,Theo Milk 45%,Milk,4.058823529,1.29762226,-0.04533178201,FALSE
+4,4,Celia,Cadbury dairy milk,Milk,3.2,1.229272594,0.6507913735,FALSE
+5,4,Celia,Dove silky smooth milk,Milk,3.2,1.229272594,0.6507913735,FALSE
+4,4,elundell,Cadbury dairy milk,Milk,4.090909091,1.150945405,-0.07898644934,FALSE
+5,4,elundell,Dove silky smooth milk,Milk,4.090909091,1.150945405,-0.07898644934,FALSE
+10,4,elundell,Lindt Milk 31 %,Milk,4.090909091,1.150945405,-0.07898644934,FALSE
+11,4,elundell,Green and black Milk 34%,Milk,4.090909091,1.150945405,-0.07898644934,FALSE
+4,4,anoymous pangolin,Cadbury dairy milk,Milk,4.192307692,1.649708599,-0.1165707037,FALSE
+10,4,anoymous pangolin,Lindt Milk 31 %,Milk,4.192307692,1.649708599,-0.1165707037,FALSE
+4,4,Kewei,Cadbury dairy milk,Milk,3.88,1.36381817,0.08798826901,FALSE
+4,4,Lily,Cadbury dairy milk,Milk,4.192307692,1.05902713,-0.181589014,FALSE
+5,4,Lily,Dove silky smooth milk,Milk,4.192307692,1.05902713,-0.181589014,FALSE
+23,4,Lily,Theo Milk 45%,Milk,4.192307692,1.05902713,-0.181589014,FALSE
+10,4,Chris Jimenez,Lindt Milk 31 %,Milk,4.076923077,1.497861724,-0.0513552591,FALSE
+4,4,Nick Verbos,Cadbury dairy milk,Milk,3.583333333,1.100065874,0.3787651962,FALSE
+5,4,Nick Verbos,Dove silky smooth milk,Milk,3.583333333,1.100065874,0.3787651962,FALSE
+10,4,Nick Verbos,Lindt Milk 31 %,Milk,3.583333333,1.100065874,0.3787651962,FALSE
+23,4,Nick Verbos,Theo Milk 45%,Milk,3.583333333,1.100065874,0.3787651962,FALSE
+5,4,Satish,Dove silky smooth milk,Milk,3.5,1.555634919,0.3214121733,FALSE
+10,4,Satish,Lindt Milk 31 %,Milk,3.5,1.555634919,0.3214121733,FALSE
+10,4,Rohan,Lindt Milk 31 %,Milk,2.863636364,1.2069424,0.9415226745,FALSE
+10,4,Jack,Lindt Milk 31 %,Milk,4.470588235,1.178857872,-0.3991899672,FALSE
+11,4,Jack,Green and black Milk 34%,Milk,4.470588235,1.178857872,-0.3991899672,FALSE
+5,4,Jon Y,Dove silky smooth milk,Milk,4.25,1.602554779,-0.1560009076,FALSE
+10,4,Jon Y,Lindt Milk 31 %,Milk,4.25,1.602554779,-0.1560009076,FALSE
+11,4,Jon Y,Green and black Milk 34%,Milk,4.25,1.602554779,-0.1560009076,FALSE
+11,4,Anonymous capybara,Green and black Milk 34%,Milk,3.576923077,1.604321088,0.2637108782,FALSE
+23,5,Sivan,Theo Milk 45%,Milk,3.375,1.668332501,0.9740264601,FALSE
+4,5,Adrienne,Cadbury dairy milk,Milk,3.807692308,1.327229619,0.8983431919,FALSE
+4,5,Prashanth,Cadbury dairy milk,Milk,4.928571429,2.368520659,0.03015746186,FALSE
+5,5,Prashanth,Dove silky smooth milk,Milk,4.928571429,2.368520659,0.03015746186,FALSE
+4,5,McKnett,Cadbury dairy milk,Milk,4.076923077,1.055389101,0.8746318514,FALSE
+10,5,McKnett,Lindt Milk 31 %,Milk,4.076923077,1.055389101,0.8746318514,FALSE
+23,5,McKnett,Theo Milk 45%,Milk,4.076923077,1.055389101,0.8746318514,FALSE
+23,5,Claire T,Theo Milk 45%,Milk,4.04,1.593737745,0.6023575729,FALSE
+11,5,Jacob,Green and black Milk 34%,Milk,4.058823529,1.29762226,0.7253085121,FALSE
+10,5,Celia,Lindt Milk 31 %,Milk,3.2,1.229272594,1.46428059,FALSE
+23,5,elundell,Theo Milk 45%,Milk,4.090909091,1.150945405,0.7898644934,FALSE
+5,5,anoymous pangolin,Dove silky smooth milk,Milk,4.192307692,1.649708599,0.4895969556,FALSE
+5,5,Kewei,Dove silky smooth milk,Milk,3.88,1.36381817,0.8212238441,FALSE
+10,5,Kewei,Lindt Milk 31 %,Milk,3.88,1.36381817,0.8212238441,FALSE
+11,5,Kewei,Green and black Milk 34%,Milk,3.88,1.36381817,0.8212238441,FALSE
+23,5,Kewei,Theo Milk 45%,Milk,3.88,1.36381817,0.8212238441,FALSE
+5,5,Han Li,Dove silky smooth milk,Milk,5.230769231,1.274604011,-0.1810517061,FALSE
+4,5,Ellen,Cadbury dairy milk,Milk,3.636363636,1.733300033,0.7867284011,FALSE
+10,5,Ellen,Lindt Milk 31 %,Milk,3.636363636,1.733300033,0.7867284011,FALSE
+4,5,Chris Jimenez,Cadbury dairy milk,Milk,4.076923077,1.497861724,0.6162631092,FALSE
+4,5,Satish,Cadbury dairy milk,Milk,3.5,1.555634919,0.9642365198,FALSE
+11,5,Satish,Green and black Milk 34%,Milk,3.5,1.555634919,0.9642365198,FALSE
+4,5,Rohan,Cadbury dairy milk,Milk,2.863636364,1.2069424,1.770062628,FALSE
+5,5,Rohan,Dove silky smooth milk,Milk,2.863636364,1.2069424,1.770062628,FALSE
+4,5,Jack,Cadbury dairy milk,Milk,4.470588235,1.178857872,0.4490887131,FALSE
+23,5,Anonymous capybara,Theo Milk 45%,Milk,3.576923077,1.604321088,0.8870274994,FALSE
+10,5,Rando 1,Lindt Milk 31 %,Milk,4.541666667,1.84105751,0.2489511224,FALSE
+10,6,Sivan,Lindt Milk 31 %,Milk,3.375,1.668332501,1.573427359,FALSE
+5,6,Adrienne,Dove silky smooth milk,Milk,3.807692308,1.327229619,1.651792321,FALSE
+11,6,Prashanth,Green and black Milk 34%,Milk,4.928571429,2.368520659,0.4523619279,FALSE
+5,6,McKnett,Dove silky smooth milk,Milk,4.076923077,1.055389101,1.82214969,FALSE
+5,6,Conor Fellin,Dove silky smooth milk,Milk,4.68,2.19317122,0.6018681934,FALSE
+10,6,Claire T,Lindt Milk 31 %,Milk,4.04,1.593737745,1.229813378,FALSE
+11,6,Claire T,Green and black Milk 34%,Milk,4.04,1.593737745,1.229813378,FALSE
+4,6,Jacob,Cadbury dairy milk,Milk,4.058823529,1.29762226,1.495948806,FALSE
+11,6,anoymous pangolin,Green and black Milk 34%,Milk,4.192307692,1.649708599,1.095764615,FALSE
+23,6,anoymous pangolin,Theo Milk 45%,Milk,4.192307692,1.649708599,1.095764615,FALSE
+4,6,Han Li,Cadbury dairy milk,Milk,5.230769231,1.274604011,0.603505687,FALSE
+11,6,Han Li,Green and black Milk 34%,Milk,5.230769231,1.274604011,0.603505687,FALSE
+23,6,Han Li,Theo Milk 45%,Milk,5.230769231,1.274604011,0.603505687,FALSE
+23,6,Satish,Theo Milk 45%,Milk,3.5,1.555634919,1.607060866,FALSE
+4,6,Anonymous capybara,Cadbury dairy milk,Milk,3.576923077,1.604321088,1.510344121,FALSE
+5,6,Anonymous capybara,Dove silky smooth milk,Milk,3.576923077,1.604321088,1.510344121,FALSE
+10,6,Anonymous capybara,Lindt Milk 31 %,Milk,3.576923077,1.604321088,1.510344121,FALSE
+4,6,Rando 1,Cadbury dairy milk,Milk,4.541666667,1.84105751,0.7921172075,FALSE
+5,6,Rando 1,Dove silky smooth milk,Milk,4.541666667,1.84105751,0.7921172075,FALSE
+23,6,Rando 1,Theo Milk 45%,Milk,4.541666667,1.84105751,0.7921172075,FALSE
+10,7,Prashanth,Lindt Milk 31 %,Milk,4.928571429,2.368520659,0.874566394,FALSE
+23,7,Conor Fellin,Theo Milk 45%,Milk,4.68,2.19317122,1.057828946,FALSE
+10,7,Han Li,Lindt Milk 31 %,Milk,5.230769231,1.274604011,1.38806308,FALSE
+25,1,Sivan,Theo ginger 70%,Other,3.375,1.668332501,-1.423577134,FALSE
+26,1,Sivan,Theo ghost chili 70%,Other,3.375,1.668332501,-1.423577134,FALSE
+9,1,William H,Lindt classic White,Other,3.857142857,1.878449208,-1.521011505,FALSE
+14,1,William H,Lindt intense orange 47%,Other,3.857142857,1.878449208,-1.521011505,FALSE
+6,1,Vince,Vplantations,Other,3.043478261,1.521908517,-1.342707685,FALSE
+26,1,Kewei,Theo ghost chili 70%,Other,3.88,1.36381817,-2.111718456,FALSE
+3,1,Ellen,TJ's raisins and pecans 57%,Other,3.636363636,1.733300033,-1.521008242,FALSE
+14,1,Ellen,Lindt intense orange 47%,Other,3.636363636,1.733300033,-1.521008242,FALSE
+6,1,Chris Jimenez,Vplantations,Other,4.076923077,1.497861724,-2.054210364,FALSE
+26,1,Nick Verbos,Theo ghost chili 70%,Other,3.583333333,1.100065874,-2.348344216,FALSE
+26,1,Satish,Theo ghost chili 70%,Other,3.5,1.555634919,-1.607060866,FALSE
+26,1,Rohan,Theo ghost chili 70%,Other,2.863636364,1.2069424,-1.544097186,FALSE
+25,2,1,Theo ginger 70%,Other,2.961538462,0.8236877676,-1.167357947,FALSE
+26,2,1,Theo ghost chili 70%,Other,2.961538462,0.8236877676,-1.167357947,FALSE
+6,2,Sivan,Vplantations,Other,3.375,1.668332501,-0.8241762354,FALSE
+6,2,William H,Vplantations,Other,3.857142857,1.878449208,-0.9886574781,FALSE
+25,2,William H,Theo ginger 70%,Other,3.857142857,1.878449208,-0.9886574781,FALSE
+25,2,Adrienne,Theo ginger 70%,Other,3.807692308,1.327229619,-1.362004194,FALSE
+9,2,Conor Fellin,Lindt classic White,Other,4.68,2.19317122,-1.221974817,FALSE
+12,2,Conor Fellin,Ghiradelli sea salt almond milk,Other,4.68,2.19317122,-1.221974817,FALSE
+6,2,Claire T,Vplantations,Other,4.04,1.593737745,-1.280009842,FALSE
+14,2,Claire T,Lindt intense orange 47%,Other,4.04,1.593737745,-1.280009842,FALSE
+26,2,Claire T,Theo ghost chili 70%,Other,4.04,1.593737745,-1.280009842,FALSE
+3,2,Vince,TJ's raisins and pecans 57%,Other,3.043478261,1.521908517,-0.6856379666,FALSE
+12,2,Vince,Ghiradelli sea salt almond milk,Other,3.043478261,1.521908517,-0.6856379666,FALSE
+3,2,anoymous pangolin,TJ's raisins and pecans 57%,Other,4.192307692,1.649708599,-1.328906022,FALSE
+12,2,anoymous pangolin,Ghiradelli sea salt almond milk,Other,4.192307692,1.649708599,-1.328906022,FALSE
+6,2,Kewei,Vplantations,Other,3.88,1.36381817,-1.378482881,FALSE
+25,2,Ellen,Theo ginger 70%,Other,3.636363636,1.733300033,-0.9440740814,FALSE
+26,2,Ellen,Theo ghost chili 70%,Other,3.636363636,1.733300033,-0.9440740814,FALSE
+9,2,Chris Jimenez,Lindt classic White,Other,4.076923077,1.497861724,-1.386591996,FALSE
+25,2,Nick Verbos,Theo ginger 70%,Other,3.583333333,1.100065874,-1.439307746,FALSE
+16,2,Satish,Lindt Sea Salt 47%,Other,3.5,1.555634919,-0.9642365198,FALSE
+12,2,Anonymous star-nosed mole,Ghiradelli sea salt almond milk,Other,3.12,1.268857754,-0.882683655,FALSE
+26,2,Anonymous star-nosed mole,Theo ghost chili 70%,Other,3.12,1.268857754,-0.882683655,FALSE
+6,2,Rohan,Vplantations,Other,2.863636364,1.2069424,-0.7155572326,FALSE
+25,2,Rohan,Theo ginger 70%,Other,2.863636364,1.2069424,-0.7155572326,FALSE
+12,2,Anonymous capybara,Ghiradelli sea salt almond milk,Other,3.576923077,1.604321088,-0.9829223642,FALSE
+3,2,Silas,TJ's raisins and pecans 57%,Other,2.5,0.894427191,-0.5590169944,FALSE
+6,2,Silas,Vplantations,Other,2.5,0.894427191,-0.5590169944,FALSE
+9,2,Silas,Lindt classic White,Other,2.5,0.894427191,-0.5590169944,FALSE
+14,2,Silas,Lindt intense orange 47%,Other,2.5,0.894427191,-0.5590169944,FALSE
+25,2,Silas,Theo ginger 70%,Other,2.5,0.894427191,-0.5590169944,FALSE
+3,3,1,TJ's raisins and pecans 57%,Other,2.961538462,0.8236877676,0.04669431789,FALSE
+6,3,1,Vplantations,Other,2.961538462,0.8236877676,0.04669431789,FALSE
+9,3,1,Lindt classic White,Other,2.961538462,0.8236877676,0.04669431789,FALSE
+12,3,1,Ghiradelli sea salt almond milk,Other,2.961538462,0.8236877676,0.04669431789,FALSE
+16,3,1,Lindt Sea Salt 47%,Other,2.961538462,0.8236877676,0.04669431789,FALSE
+3,3,Sivan,TJ's raisins and pecans 57%,Other,3.375,1.668332501,-0.2247753369,FALSE
+3,3,William H,TJ's raisins and pecans 57%,Other,3.857142857,1.878449208,-0.4563034514,FALSE
+26,3,William H,Theo ghost chili 70%,Other,3.857142857,1.878449208,-0.4563034514,FALSE
+6,3,Adrienne,Vplantations,Other,3.807692308,1.327229619,-0.6085550655,FALSE
+12,3,Adrienne,Ghiradelli sea salt almond milk,Other,3.807692308,1.327229619,-0.6085550655,FALSE
+6,3,Prashanth,Vplantations,Other,4.928571429,2.368520659,-0.8142514703,FALSE
+14,3,Prashanth,Lindt intense orange 47%,Other,4.928571429,2.368520659,-0.8142514703,FALSE
+6,3,McKnett,Vplantations,Other,4.076923077,1.055389101,-1.020403827,FALSE
+12,3,McKnett,Ghiradelli sea salt almond milk,Other,4.076923077,1.055389101,-1.020403827,FALSE
+14,3,McKnett,Lindt intense orange 47%,Other,4.076923077,1.055389101,-1.020403827,FALSE
+25,3,McKnett,Theo ginger 70%,Other,4.076923077,1.055389101,-1.020403827,FALSE
+26,3,McKnett,Theo ghost chili 70%,Other,4.076923077,1.055389101,-1.020403827,FALSE
+3,3,Jacob,TJ's raisins and pecans 57%,Other,4.058823529,1.29762226,-0.8159720761,FALSE
+12,3,Jacob,Ghiradelli sea salt almond milk,Other,4.058823529,1.29762226,-0.8159720761,FALSE
+26,3,Jacob,Theo ghost chili 70%,Other,4.058823529,1.29762226,-0.8159720761,FALSE
+16,3,Celia,Lindt Sea Salt 47%,Other,3.2,1.229272594,-0.1626978434,FALSE
+9,3,Vince,Lindt classic White,Other,3.043478261,1.521908517,-0.02856824861,FALSE
+16,3,elundell,Lindt Sea Salt 47%,Other,4.090909091,1.150945405,-0.9478373921,FALSE
+26,3,anoymous pangolin,Theo ghost chili 70%,Other,4.192307692,1.649708599,-0.722738363,FALSE
+12,3,Kewei,Ghiradelli sea salt almond milk,Other,3.88,1.36381817,-0.6452473061,FALSE
+25,3,Kewei,Theo ginger 70%,Other,3.88,1.36381817,-0.6452473061,FALSE
+9,3,Lily,Lindt classic White,Other,4.192307692,1.05902713,-1.125851887,FALSE
+12,3,Lily,Ghiradelli sea salt almond milk,Other,4.192307692,1.05902713,-1.125851887,FALSE
+16,3,Lily,Lindt Sea Salt 47%,Other,4.192307692,1.05902713,-1.125851887,FALSE
+26,3,Lily,Theo ghost chili 70%,Other,4.192307692,1.05902713,-1.125851887,FALSE
+3,3,Nick Verbos,TJ's raisins and pecans 57%,Other,3.583333333,1.100065874,-0.5302712747,FALSE
+16,3,Nick Verbos,Lindt Sea Salt 47%,Other,3.583333333,1.100065874,-0.5302712747,FALSE
+3,3,Satish,TJ's raisins and pecans 57%,Other,3.5,1.555634919,-0.3214121733,FALSE
+6,3,Satish,Vplantations,Other,3.5,1.555634919,-0.3214121733,FALSE
+6,3,Anonymous star-nosed mole,Vplantations,Other,3.12,1.268857754,-0.09457324875,FALSE
+9,3,Anonymous star-nosed mole,Lindt classic White,Other,3.12,1.268857754,-0.09457324875,FALSE
+14,3,Anonymous star-nosed mole,Lindt intense orange 47%,Other,3.12,1.268857754,-0.09457324875,FALSE
+16,3,Anonymous star-nosed mole,Lindt Sea Salt 47%,Other,3.12,1.268857754,-0.09457324875,FALSE
+3,3,Rohan,TJ's raisins and pecans 57%,Other,2.863636364,1.2069424,0.1129827209,FALSE
+3,3,Jack,TJ's raisins and pecans 57%,Other,4.470588235,1.178857872,-1.247468648,FALSE
+25,3,Jack,Theo ginger 70%,Other,4.470588235,1.178857872,-1.247468648,FALSE
+3,3,Anonymous capybara,TJ's raisins and pecans 57%,Other,3.576923077,1.604321088,-0.359605743,FALSE
+6,3,Anonymous capybara,Vplantations,Other,3.576923077,1.604321088,-0.359605743,FALSE
+25,3,Anonymous capybara,Theo ginger 70%,Other,3.576923077,1.604321088,-0.359605743,FALSE
+26,3,Anonymous capybara,Theo ghost chili 70%,Other,3.576923077,1.604321088,-0.359605743,FALSE
+16,3,Silas,Lindt Sea Salt 47%,Other,2.5,0.894427191,0.5590169944,FALSE
+14,4,1,Lindt intense orange 47%,Other,2.961538462,0.8236877676,1.260746583,FALSE
+12,4,William H,Ghiradelli sea salt almond milk,Other,3.857142857,1.878449208,0.07605057524,FALSE
+14,4,Adrienne,Lindt intense orange 47%,Other,3.807692308,1.327229619,0.1448940632,FALSE
+26,4,Adrienne,Theo ghost chili 70%,Other,3.807692308,1.327229619,0.1448940632,FALSE
+3,4,McKnett,TJ's raisins and pecans 57%,Other,4.076923077,1.055389101,-0.07288598762,FALSE
+9,4,McKnett,Lindt classic White,Other,4.076923077,1.055389101,-0.07288598762,FALSE
+3,4,Conor Fellin,TJ's raisins and pecans 57%,Other,4.68,2.19317122,-0.3100533118,FALSE
+3,4,Claire T,TJ's raisins and pecans 57%,Other,4.04,1.593737745,-0.02509823221,FALSE
+16,4,Claire T,Lindt Sea Salt 47%,Other,4.04,1.593737745,-0.02509823221,FALSE
+9,4,Jacob,Lindt classic White,Other,4.058823529,1.29762226,-0.04533178201,FALSE
+9,4,Celia,Lindt classic White,Other,3.2,1.229272594,0.6507913735,FALSE
+26,4,Celia,Theo ghost chili 70%,Other,3.2,1.229272594,0.6507913735,FALSE
+12,4,elundell,Ghiradelli sea salt almond milk,Other,4.090909091,1.150945405,-0.07898644934,FALSE
+14,4,elundell,Lindt intense orange 47%,Other,4.090909091,1.150945405,-0.07898644934,FALSE
+26,4,elundell,Theo ghost chili 70%,Other,4.090909091,1.150945405,-0.07898644934,FALSE
+6,4,anoymous pangolin,Vplantations,Other,4.192307692,1.649708599,-0.1165707037,FALSE
+16,4,anoymous pangolin,Lindt Sea Salt 47%,Other,4.192307692,1.649708599,-0.1165707037,FALSE
+25,4,anoymous pangolin,Theo ginger 70%,Other,4.192307692,1.649708599,-0.1165707037,FALSE
+3,4,Kewei,TJ's raisins and pecans 57%,Other,3.88,1.36381817,0.08798826901,FALSE
+16,4,Kewei,Lindt Sea Salt 47%,Other,3.88,1.36381817,0.08798826901,FALSE
+6,4,Lily,Vplantations,Other,4.192307692,1.05902713,-0.181589014,FALSE
+26,4,Han Li,Theo ghost chili 70%,Other,5.230769231,1.274604011,-0.9656090992,FALSE
+16,4,Ellen,Lindt Sea Salt 47%,Other,3.636363636,1.733300033,0.2097942403,FALSE
+3,4,Chris Jimenez,TJ's raisins and pecans 57%,Other,4.076923077,1.497861724,-0.0513552591,FALSE
+6,4,Nick Verbos,Vplantations,Other,3.583333333,1.100065874,0.3787651962,FALSE
+12,4,Nick Verbos,Ghiradelli sea salt almond milk,Other,3.583333333,1.100065874,0.3787651962,FALSE
+9,4,Raphey,Lindt classic White,Other,4.857142857,1.236354087,-0.6932826656,FALSE
+12,4,Raphey,Ghiradelli sea salt almond milk,Other,4.857142857,1.236354087,-0.6932826656,FALSE
+3,4,Anonymous star-nosed mole,TJ's raisins and pecans 57%,Other,3.12,1.268857754,0.6935371575,FALSE
+9,4,Rohan,Lindt classic White,Other,2.863636364,1.2069424,0.9415226745,FALSE
+16,4,Rohan,Lindt Sea Salt 47%,Other,2.863636364,1.2069424,0.9415226745,FALSE
+9,4,Jack,Lindt classic White,Other,4.470588235,1.178857872,-0.3991899672,FALSE
+16,4,Anonymous capybara,Lindt Sea Salt 47%,Other,3.576923077,1.604321088,0.2637108782,FALSE
+14,4,Rando 1,Lindt intense orange 47%,Other,4.541666667,1.84105751,-0.2942149628,FALSE
+12,5,Sivan,Ghiradelli sea salt almond milk,Other,3.375,1.668332501,0.9740264601,FALSE
+9,5,Adrienne,Lindt classic White,Other,3.807692308,1.327229619,0.8983431919,FALSE
+12,5,Prashanth,Ghiradelli sea salt almond milk,Other,4.928571429,2.368520659,0.03015746186,FALSE
+16,5,McKnett,Lindt Sea Salt 47%,Other,4.076923077,1.055389101,0.8746318514,FALSE
+25,5,Claire T,Theo ginger 70%,Other,4.04,1.593737745,0.6023575729,FALSE
+6,5,Jacob,Vplantations,Other,4.058823529,1.29762226,0.7253085121,FALSE
+25,5,Jacob,Theo ginger 70%,Other,4.058823529,1.29762226,0.7253085121,FALSE
+14,5,Vince,Lindt intense orange 47%,Other,3.043478261,1.521908517,1.285571187,FALSE
+25,5,Vince,Theo ginger 70%,Other,3.043478261,1.521908517,1.285571187,FALSE
+26,5,Vince,Theo ghost chili 70%,Other,3.043478261,1.521908517,1.285571187,FALSE
+3,5,elundell,TJ's raisins and pecans 57%,Other,4.090909091,1.150945405,0.7898644934,FALSE
+14,5,anoymous pangolin,Lindt intense orange 47%,Other,4.192307692,1.649708599,0.4895969556,FALSE
+9,5,Kewei,Lindt classic White,Other,3.88,1.36381817,0.8212238441,FALSE
+3,5,Lily,TJ's raisins and pecans 57%,Other,4.192307692,1.05902713,0.7626738589,FALSE
+14,5,Lily,Lindt intense orange 47%,Other,4.192307692,1.05902713,0.7626738589,FALSE
+25,5,Lily,Theo ginger 70%,Other,4.192307692,1.05902713,0.7626738589,FALSE
+3,5,Han Li,TJ's raisins and pecans 57%,Other,5.230769231,1.274604011,-0.1810517061,FALSE
+12,5,Ellen,Ghiradelli sea salt almond milk,Other,3.636363636,1.733300033,0.7867284011,FALSE
+12,5,Chris Jimenez,Ghiradelli sea salt almond milk,Other,4.076923077,1.497861724,0.6162631092,FALSE
+3,5,Raphey,TJ's raisins and pecans 57%,Other,4.857142857,1.236354087,0.1155471109,FALSE
+6,5,Raphey,Vplantations,Other,4.857142857,1.236354087,0.1155471109,FALSE
+16,5,Raphey,Lindt Sea Salt 47%,Other,4.857142857,1.236354087,0.1155471109,FALSE
+9,5,Satish,Lindt classic White,Other,3.5,1.555634919,0.9642365198,FALSE
+12,5,Satish,Ghiradelli sea salt almond milk,Other,3.5,1.555634919,0.9642365198,FALSE
+25,5,Satish,Theo ginger 70%,Other,3.5,1.555634919,0.9642365198,FALSE
+12,5,Rohan,Ghiradelli sea salt almond milk,Other,2.863636364,1.2069424,1.770062628,FALSE
+14,5,Jack,Lindt intense orange 47%,Other,4.470588235,1.178857872,0.4490887131,FALSE
+16,5,Jack,Lindt Sea Salt 47%,Other,4.470588235,1.178857872,0.4490887131,FALSE
+14,5,Anonymous capybara,Lindt intense orange 47%,Other,3.576923077,1.604321088,0.8870274994,FALSE
+6,5,Rando 1,Vplantations,Other,4.541666667,1.84105751,0.2489511224,FALSE
+9,6,Sivan,Lindt classic White,Other,3.375,1.668332501,1.573427359,FALSE
+3,6,Adrienne,TJ's raisins and pecans 57%,Other,3.807692308,1.327229619,1.651792321,FALSE
+16,6,Adrienne,Lindt Sea Salt 47%,Other,3.807692308,1.327229619,1.651792321,FALSE
+16,6,Conor Fellin,Lindt Sea Salt 47%,Other,4.68,2.19317122,0.6018681934,FALSE
+12,6,Claire T,Ghiradelli sea salt almond milk,Other,4.04,1.593737745,1.229813378,FALSE
+14,6,Jacob,Lindt intense orange 47%,Other,4.058823529,1.29762226,1.495948806,FALSE
+25,6,elundell,Theo ginger 70%,Other,4.090909091,1.150945405,1.658715436,FALSE
+9,6,anoymous pangolin,Lindt classic White,Other,4.192307692,1.649708599,1.095764615,FALSE
+14,6,Kewei,Lindt intense orange 47%,Other,3.88,1.36381817,1.554459419,FALSE
+6,6,Han Li,Vplantations,Other,5.230769231,1.274604011,0.603505687,FALSE
+9,6,Han Li,Lindt classic White,Other,5.230769231,1.274604011,0.603505687,FALSE
+14,6,Han Li,Lindt intense orange 47%,Other,5.230769231,1.274604011,0.603505687,FALSE
+16,6,Han Li,Lindt Sea Salt 47%,Other,5.230769231,1.274604011,0.603505687,FALSE
+25,6,Han Li,Theo ginger 70%,Other,5.230769231,1.274604011,0.603505687,FALSE
+26,6,Chris Jimenez,Theo ghost chili 70%,Other,4.076923077,1.497861724,1.283881478,FALSE
+9,6,Nick Verbos,Lindt classic White,Other,3.583333333,1.100065874,2.196838138,FALSE
+14,6,Raphey,Lindt intense orange 47%,Other,4.857142857,1.236354087,0.9243768875,FALSE
+25,6,Raphey,Theo ginger 70%,Other,4.857142857,1.236354087,0.9243768875,FALSE
+14,6,Satish,Lindt intense orange 47%,Other,3.5,1.555634919,1.607060866,FALSE
+25,6,Anonymous star-nosed mole,Theo ginger 70%,Other,3.12,1.268857754,2.26975797,FALSE
+12,6,Jack,Ghiradelli sea salt almond milk,Other,4.470588235,1.178857872,1.297367394,FALSE
+26,6,Jack,Theo ghost chili 70%,Other,4.470588235,1.178857872,1.297367394,FALSE
+9,6,Anonymous capybara,Lindt classic White,Other,3.576923077,1.604321088,1.510344121,FALSE
+16,6,Rando 1,Lindt Sea Salt 47%,Other,4.541666667,1.84105751,0.7921172075,FALSE
+9,7,Prashanth,Lindt classic White,Other,4.928571429,2.368520659,0.874566394,FALSE
+6,7,Conor Fellin,Vplantations,Other,4.68,2.19317122,1.057828946,FALSE
+14,7,Conor Fellin,Lindt intense orange 47%,Other,4.68,2.19317122,1.057828946,FALSE
+25,7,Conor Fellin,Theo ginger 70%,Other,4.68,2.19317122,1.057828946,FALSE
+26,7,Conor Fellin,Theo ghost chili 70%,Other,4.68,2.19317122,1.057828946,FALSE
+12,7,Han Li,Ghiradelli sea salt almond milk,Other,5.230769231,1.274604011,1.38806308,FALSE
+26,7,Raphey,Theo ghost chili 70%,Other,4.857142857,1.236354087,1.733206664,FALSE
+3,7,Rando 1,TJ's raisins and pecans 57%,Other,4.541666667,1.84105751,1.335283293,FALSE
+25,7,Rando 1,Theo ginger 70%,Other,4.541666667,1.84105751,1.335283293,FALSE
+26,7,Rando 1,Theo ghost chili 70%,Other,4.541666667,1.84105751,1.335283293,FALSE
+26,11,Prashanth,Theo ghost chili 70%,Other,4.928571429,2.368520659,2.563384258,FALSE
+1,2,Sivan,Scharffen Berger 62%,Semi,3.375,1.668332501,-0.8241762354,FALSE
+2,2,Celia,Original Beans 70%,Semi,3.2,1.229272594,-0.9761870602,FALSE
+15,2,elundell,Lindt 70%,Semi,4.090909091,1.150945405,-1.816688335,FALSE
+2,2,anoymous pangolin,Original Beans 70%,Semi,4.192307692,1.649708599,-1.328906022,FALSE
+2,2,Nick Verbos,Original Beans 70%,Semi,3.583333333,1.100065874,-1.439307746,FALSE
+18,2,Anonymous star-nosed mole,Guittard 64%,Semi,3.12,1.268857754,-0.882683655,FALSE
+15,2,Rohan,Lindt 70%,Semi,2.863636364,1.2069424,-0.7155572326,FALSE
+2,2,Anonymous capybara,Original Beans 70%,Semi,3.576923077,1.604321088,-0.9829223642,FALSE
+18,2,Anonymous capybara,Guittard 64%,Semi,3.576923077,1.604321088,-0.9829223642,FALSE
+19,3,1,Green and black 70%,Semi,2.961538462,0.8236877676,0.04669431789,FALSE
+19,3,Sivan,Green and black 70%,Semi,3.375,1.668332501,-0.2247753369,FALSE
+2,3,Adrienne,Original Beans 70%,Semi,3.807692308,1.327229619,-0.6085550655,FALSE
+15,3,Adrienne,Lindt 70%,Semi,3.807692308,1.327229619,-0.6085550655,FALSE
+19,3,Adrienne,Green and black 70%,Semi,3.807692308,1.327229619,-0.6085550655,FALSE
+18,3,McKnett,Guittard 64%,Semi,4.076923077,1.055389101,-1.020403827,FALSE
+15,3,Claire T,Lindt 70%,Semi,4.04,1.593737745,-0.6525540373,FALSE
+2,3,Jacob,Original Beans 70%,Semi,4.058823529,1.29762226,-0.8159720761,FALSE
+1,3,Vince,Scharffen Berger 62%,Semi,3.043478261,1.521908517,-0.02856824861,FALSE
+2,3,Vince,Original Beans 70%,Semi,3.043478261,1.521908517,-0.02856824861,FALSE
+1,3,Kewei,Scharffen Berger 62%,Semi,3.88,1.36381817,-0.6452473061,FALSE
+2,3,Kewei,Original Beans 70%,Semi,3.88,1.36381817,-0.6452473061,FALSE
+15,3,Kewei,Lindt 70%,Semi,3.88,1.36381817,-0.6452473061,FALSE
+18,3,Kewei,Guittard 64%,Semi,3.88,1.36381817,-0.6452473061,FALSE
+15,3,Lily,Lindt 70%,Semi,4.192307692,1.05902713,-1.125851887,FALSE
+18,3,Lily,Guittard 64%,Semi,4.192307692,1.05902713,-1.125851887,FALSE
+2,3,Chris Jimenez,Original Beans 70%,Semi,4.076923077,1.497861724,-0.7189736274,FALSE
+1,3,Nick Verbos,Scharffen Berger 62%,Semi,3.583333333,1.100065874,-0.5302712747,FALSE
+15,3,Satish,Lindt 70%,Semi,3.5,1.555634919,-0.3214121733,FALSE
+2,3,Anonymous star-nosed mole,Original Beans 70%,Semi,3.12,1.268857754,-0.09457324875,FALSE
+19,3,Anonymous star-nosed mole,Green and black 70%,Semi,3.12,1.268857754,-0.09457324875,FALSE
+1,3,Rohan,Scharffen Berger 62%,Semi,2.863636364,1.2069424,0.1129827209,FALSE
+2,3,Rohan,Original Beans 70%,Semi,2.863636364,1.2069424,0.1129827209,FALSE
+18,3,Rohan,Guittard 64%,Semi,2.863636364,1.2069424,0.1129827209,FALSE
+1,3,Anonymous capybara,Scharffen Berger 62%,Semi,3.576923077,1.604321088,-0.359605743,FALSE
+15,3,Anonymous capybara,Lindt 70%,Semi,3.576923077,1.604321088,-0.359605743,FALSE
+1,3,Rando 1,Scharffen Berger 62%,Semi,4.541666667,1.84105751,-0.8373810479,FALSE
+2,3,Rando 1,Original Beans 70%,Semi,4.541666667,1.84105751,-0.8373810479,FALSE
+1,3,Rando 2,Scharffen Berger 62%,Semi,3.333333333,2.065591118,-0.1613743061,FALSE
+1,4,1,Scharffen Berger 62%,Semi,2.961538462,0.8236877676,1.260746583,FALSE
+2,4,1,Original Beans 70%,Semi,2.961538462,0.8236877676,1.260746583,FALSE
+15,4,1,Lindt 70%,Semi,2.961538462,0.8236877676,1.260746583,FALSE
+18,4,1,Guittard 64%,Semi,2.961538462,0.8236877676,1.260746583,FALSE
+18,4,Adrienne,Guittard 64%,Semi,3.807692308,1.327229619,0.1448940632,FALSE
+15,4,Prashanth,Lindt 70%,Semi,4.928571429,2.368520659,-0.3920470042,FALSE
+19,4,Prashanth,Green and black 70%,Semi,4.928571429,2.368520659,-0.3920470042,FALSE
+2,4,McKnett,Original Beans 70%,Semi,4.076923077,1.055389101,-0.07288598762,FALSE
+15,4,McKnett,Lindt 70%,Semi,4.076923077,1.055389101,-0.07288598762,FALSE
+2,4,Claire T,Original Beans 70%,Semi,4.04,1.593737745,-0.02509823221,FALSE
+19,4,Claire T,Green and black 70%,Semi,4.04,1.593737745,-0.02509823221,FALSE
+1,4,elundell,Scharffen Berger 62%,Semi,4.090909091,1.150945405,-0.07898644934,FALSE
+2,4,elundell,Original Beans 70%,Semi,4.090909091,1.150945405,-0.07898644934,FALSE
+18,4,elundell,Guittard 64%,Semi,4.090909091,1.150945405,-0.07898644934,FALSE
+2,4,Ellen,Original Beans 70%,Semi,3.636363636,1.733300033,0.2097942403,FALSE
+15,4,Chris Jimenez,Lindt 70%,Semi,4.076923077,1.497861724,-0.0513552591,FALSE
+15,4,Nick Verbos,Lindt 70%,Semi,3.583333333,1.100065874,0.3787651962,FALSE
+19,4,Nick Verbos,Green and black 70%,Semi,3.583333333,1.100065874,0.3787651962,FALSE
+1,4,Raphey,Scharffen Berger 62%,Semi,4.857142857,1.236354087,-0.6932826656,FALSE
+1,4,Satish,Scharffen Berger 62%,Semi,3.5,1.555634919,0.3214121733,FALSE
+2,4,Satish,Original Beans 70%,Semi,3.5,1.555634919,0.3214121733,FALSE
+18,4,Satish,Guittard 64%,Semi,3.5,1.555634919,0.3214121733,FALSE
+19,4,Satish,Green and black 70%,Semi,3.5,1.555634919,0.3214121733,FALSE
+1,4,Anonymous star-nosed mole,Scharffen Berger 62%,Semi,3.12,1.268857754,0.6935371575,FALSE
+15,4,Anonymous star-nosed mole,Lindt 70%,Semi,3.12,1.268857754,0.6935371575,FALSE
+2,4,Jack,Original Beans 70%,Semi,4.470588235,1.178857872,-0.3991899672,FALSE
+19,4,Silas,Green and black 70%,Semi,2.5,0.894427191,1.677050983,FALSE
+19,4,Rando 1,Green and black 70%,Semi,4.541666667,1.84105751,-0.2942149628,FALSE
+18,4,Rando 2,Guittard 64%,Semi,3.333333333,2.065591118,0.3227486122,FALSE
+1,5,Adrienne,Scharffen Berger 62%,Semi,3.807692308,1.327229619,0.8983431919,FALSE
+1,5,McKnett,Scharffen Berger 62%,Semi,4.076923077,1.055389101,0.8746318514,FALSE
+19,5,McKnett,Green and black 70%,Semi,4.076923077,1.055389101,0.8746318514,FALSE
+15,5,Conor Fellin,Lindt 70%,Semi,4.68,2.19317122,0.1459074408,FALSE
+1,5,Claire T,Scharffen Berger 62%,Semi,4.04,1.593737745,0.6023575729,FALSE
+1,5,anoymous pangolin,Scharffen Berger 62%,Semi,4.192307692,1.649708599,0.4895969556,FALSE
+18,5,anoymous pangolin,Guittard 64%,Semi,4.192307692,1.649708599,0.4895969556,FALSE
+1,5,Lily,Scharffen Berger 62%,Semi,4.192307692,1.05902713,0.7626738589,FALSE
+2,5,Lily,Original Beans 70%,Semi,4.192307692,1.05902713,0.7626738589,FALSE
+1,5,Han Li,Scharffen Berger 62%,Semi,5.230769231,1.274604011,-0.1810517061,FALSE
+2,5,Han Li,Original Beans 70%,Semi,5.230769231,1.274604011,-0.1810517061,FALSE
+15,5,Han Li,Lindt 70%,Semi,5.230769231,1.274604011,-0.1810517061,FALSE
+18,5,Han Li,Guittard 64%,Semi,5.230769231,1.274604011,-0.1810517061,FALSE
+1,5,Ellen,Scharffen Berger 62%,Semi,3.636363636,1.733300033,0.7867284011,FALSE
+18,5,Ellen,Guittard 64%,Semi,3.636363636,1.733300033,0.7867284011,FALSE
+18,5,Chris Jimenez,Guittard 64%,Semi,4.076923077,1.497861724,0.6162631092,FALSE
+18,5,Nick Verbos,Guittard 64%,Semi,3.583333333,1.100065874,1.287801667,FALSE
+2,5,Raphey,Original Beans 70%,Semi,4.857142857,1.236354087,0.1155471109,FALSE
+19,5,Raphey,Green and black 70%,Semi,4.857142857,1.236354087,0.1155471109,FALSE
+15,5,Jack,Lindt 70%,Semi,4.470588235,1.178857872,0.4490887131,FALSE
+15,5,Rando 1,Lindt 70%,Semi,4.541666667,1.84105751,0.2489511224,FALSE
+18,5,Rando 1,Guittard 64%,Semi,4.541666667,1.84105751,0.2489511224,FALSE
+2,5,Rando 2,Original Beans 70%,Semi,3.333333333,2.065591118,0.8068715305,FALSE
+1,6,William H,Scharffen Berger 62%,Semi,3.857142857,1.878449208,1.140758629,FALSE
+2,6,William H,Original Beans 70%,Semi,3.857142857,1.878449208,1.140758629,FALSE
+15,6,William H,Lindt 70%,Semi,3.857142857,1.878449208,1.140758629,FALSE
+19,6,William H,Green and black 70%,Semi,3.857142857,1.878449208,1.140758629,FALSE
+1,6,Conor Fellin,Scharffen Berger 62%,Semi,4.68,2.19317122,0.6018681934,FALSE
+2,6,Conor Fellin,Original Beans 70%,Semi,4.68,2.19317122,0.6018681934,FALSE
+18,6,Claire T,Guittard 64%,Semi,4.04,1.593737745,1.229813378,FALSE
+19,6,Vince,Green and black 70%,Semi,3.043478261,1.521908517,1.942640905,FALSE
+15,6,anoymous pangolin,Lindt 70%,Semi,4.192307692,1.649708599,1.095764615,FALSE
+19,6,anoymous pangolin,Green and black 70%,Semi,4.192307692,1.649708599,1.095764615,FALSE
+19,6,Kewei,Green and black 70%,Semi,3.88,1.36381817,1.554459419,FALSE
+19,6,Lily,Green and black 70%,Semi,4.192307692,1.05902713,1.706936732,FALSE
+19,6,Han Li,Green and black 70%,Semi,5.230769231,1.274604011,0.603505687,FALSE
+15,6,Ellen,Lindt 70%,Semi,3.636363636,1.733300033,1.363662562,FALSE
+19,6,Ellen,Green and black 70%,Semi,3.636363636,1.733300033,1.363662562,FALSE
+19,6,Chris Jimenez,Green and black 70%,Semi,4.076923077,1.497861724,1.283881478,FALSE
+15,6,Raphey,Lindt 70%,Semi,4.857142857,1.236354087,0.9243768875,FALSE
+18,6,Raphey,Guittard 64%,Semi,4.857142857,1.236354087,0.9243768875,FALSE
+1,6,Jack,Scharffen Berger 62%,Semi,4.470588235,1.178857872,1.297367394,FALSE
+18,6,Jack,Guittard 64%,Semi,4.470588235,1.178857872,1.297367394,FALSE
+19,6,Anonymous capybara,Green and black 70%,Semi,3.576923077,1.604321088,1.510344121,FALSE
+15,6,Rando 2,Lindt 70%,Semi,3.333333333,2.065591118,1.290994449,FALSE
+18,7,William H,Guittard 64%,Semi,3.857142857,1.878449208,1.673112655,FALSE
+18,7,Conor Fellin,Guittard 64%,Semi,4.68,2.19317122,1.057828946,FALSE
+19,7,Jon Y,Green and black 70%,Semi,4.25,1.602554779,1.716009984,FALSE
