@@ -5,9 +5,10 @@ library(ggridges)
 data <- read.csv('Snackathon results - Sheet1.csv')
 
 data %>%
+  mutate(Name = factor(Name, levels = unique(data$Name))) %>%
   ggplot() +
   aes(x = Standardized.score, y = Name) +
-  geom_density_ridges(scale = 4) + theme_ridges() +
-  scale_y_discrete(expand = c(0.01, 0)) +   # will generally have to set the `expand` option
-  scale_x_continuous(expand = c(0, 0)) +
-  labs(x = "Standardized Score", y = "Name", title = "Distribution of Scores")
+  stat_density_ridges(scale = 4) +
+  theme_ridges() +
+  labs(x = "Standarized Scores", y = "Chocolate", title = "Standardized Score of Each Chocolate")
+  
